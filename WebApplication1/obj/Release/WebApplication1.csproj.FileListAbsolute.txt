@@ -1,0 +1,226 @@
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\AngleSharp.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Telegram.Bot.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\AngleSharp.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Telegram.Bot.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+F:\CSharpProjects\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\AngleSharp.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Telegram.Bot.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\AngleSharp.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Telegram.Bot.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+F:\CSharpProjects\Бот\new_bot_chords\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\AngleSharp.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Telegram.Bot.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\AngleSharp.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Telegram.Bot.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+F:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\AngleSharp.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Telegram.Bot.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\AngleSharp.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Telegram.Bot.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojAssemblyReference.cache
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+E:\CSharpProjects\Бот\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
