@@ -169,10 +169,6 @@
     <Compile Include="Transponator.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\Database.mdf" />
-    <Content Include="App_Data\Database_log.ldf">
-      <DependentUpon>Database.mdf</DependentUpon>
-    </Content>
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="ApplicationInsights.config">
@@ -186,12 +182,14 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\librarymanager.tk - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\WebApplication1201101 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\WebApplication120180305102944 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\WebApplication12018031 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\WebApplication120187 - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
