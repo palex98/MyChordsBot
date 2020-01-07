@@ -46,13 +46,13 @@ namespace WebApplication1
                     if (callbackData[0] == "up")
                     {
                         await MvcApplication.Bot.EditMessageTextAsync(update.CallbackQuery.Message.Chat.Id, messageId, transponator.WorkUp(), ParseMode.Markdown, false, editKeyboard);
-                        await MvcApplication.Bot.SendTextMessageAsync(866103901, update.CallbackQuery.From.FirstName + " " + update.CallbackQuery.From.LastName + "\n<b>TONE+</b>", ParseMode.Html);
+                        await MvcApplication.Bot.SendTextMessageAsync(543932785, update.CallbackQuery.From.FirstName + " " + update.CallbackQuery.From.LastName + "\n<b>TONE+</b>", ParseMode.Html);
 
                     }
                     else if (callbackData[0] == "down")
                     {
                         await MvcApplication.Bot.EditMessageTextAsync(update.CallbackQuery.Message.Chat.Id, messageId, transponator.WorkDown(), ParseMode.Markdown, false, editKeyboard);
-                        await MvcApplication.Bot.SendTextMessageAsync(866103901, update.CallbackQuery.From.FirstName + " " + update.CallbackQuery.From.LastName + "\n<b>TONE-</b>", ParseMode.Html);
+                        await MvcApplication.Bot.SendTextMessageAsync(543932785, update.CallbackQuery.From.FirstName + " " + update.CallbackQuery.From.LastName + "\n<b>TONE-</b>", ParseMode.Html);
                     }
                     await MvcApplication.Bot.AnswerCallbackQueryAsync(update.CallbackQuery.Id);
                     Thread.Sleep(1200);
@@ -60,7 +60,7 @@ namespace WebApplication1
                 catch
                 {
                     Console.WriteLine("EXEPTION");
-                    await MvcApplication.Bot.SendTextMessageAsync(866103901, update.CallbackQuery.From.FirstName + " " + update.CallbackQuery.From.LastName + "\n<b>TONE EXEPTION</b>", ParseMode.Html);
+                    await MvcApplication.Bot.SendTextMessageAsync(543932785, update.CallbackQuery.From.FirstName + " " + update.CallbackQuery.From.LastName + "\n<b>TONE EXEPTION</b>", ParseMode.Html);
 
                     try
                     {
@@ -101,7 +101,7 @@ namespace WebApplication1
                     await MvcApplication.Bot.SendTextMessageAsync(message.Chat.Id, "Привет, " + message.From.FirstName + '.');
                     await MvcApplication.Bot.SendTextMessageAsync(message.Chat.Id, "С помощью этого бота ты легко можешь находить аккорды. " +
                         "Просто отправь мне название песни.");
-                    await MvcApplication.Bot.SendTextMessageAsync(866103901, message.From.FirstName + " " + message.From.LastName + "\n<b>START</b>\n" +
+                    await MvcApplication.Bot.SendTextMessageAsync(543932785, message.From.FirstName + " " + message.From.LastName + "\n<b>START</b>\n" +
                         "UserId: " + message.Chat.Id  + " @" + message.From.Username, ParseMode.Html);
 
                     return "";
@@ -113,7 +113,7 @@ namespace WebApplication1
                         "Если же хочешь узнать аппликатуру неизвестного аккорда, отправь название аккорда.\nЧтобы узнать аппликатуру аккорда для укулеле, отправь название аккорда" +
                         " + u. <i>Например: Am7 u</i>.\n\n" +
                         "Свои пожелания и предложения можно писать сюда - @pyzzzh", ParseMode.Html);
-                    await MvcApplication.Bot.SendTextMessageAsync(866103901, message.From.FirstName + " " + message.From.LastName + "\n<b>HELP</b>\n", ParseMode.Html);
+                    await MvcApplication.Bot.SendTextMessageAsync(543932785, message.From.FirstName + " " + message.From.LastName + "\n<b>HELP</b>\n", ParseMode.Html);
 
                     return "";
                 }
@@ -154,9 +154,9 @@ namespace WebApplication1
                     {
                         await MvcApplication.Bot.DeleteMessageAsync(SendedMessage.Chat.Id, SendedMessage.MessageId);
                         await MvcApplication.Bot.SendTextMessageAsync(message.Chat.Id, textToSend, ParseMode.Markdown);
-                        await MvcApplication.Bot.SendTextMessageAsync(866103901, message.From.FirstName + " " + message.From.LastName + "\n<b>" + "429" + "</b>", ParseMode.Html);
+                        await MvcApplication.Bot.SendTextMessageAsync(543932785, message.From.FirstName + " " + message.From.LastName + "\n<b>" + "429" + "</b>", ParseMode.Html);
                     }
-                    await MvcApplication.Bot.SendTextMessageAsync(866103901, message.From.FirstName + " " + message.From.LastName + "\n<b>" + message.Text + "</b>", ParseMode.Html);
+                    await MvcApplication.Bot.SendTextMessageAsync(543932785, message.From.FirstName + " " + message.From.LastName + "\n<b>" + message.Text + "</b>", ParseMode.Html);
                 }
                 catch (Exception ex)
                 {
@@ -173,7 +173,7 @@ namespace WebApplication1
                             await MvcApplication.Bot.SendTextMessageAsync(message.Chat.Id, "_Не удалось найти твою песню. Попробуй еще раз!_", parseMode: ParseMode.Markdown);
                         }
                         Thread.Sleep(1000);
-                        await MvcApplication.Bot.SendTextMessageAsync(866103901, message.From.FirstName + " " + message.From.LastName + "\n<b>" + "ERROR" + "</b>" + "\n" + message.Text, ParseMode.Html);
+                        await MvcApplication.Bot.SendTextMessageAsync(543932785, message.From.FirstName + " " + message.From.LastName + "\n<b>" + "ERROR" + "</b>" + "\n" + message.Text, ParseMode.Html);
                     }
                     catch
                     {

@@ -28,7 +28,7 @@ namespace WebApplication1
             Answer.DictionaryInitialization();
 
             Bot = new Telegram.Bot.TelegramBotClient(key);
-            await Bot.SetWebhookAsync("https://librarymanager.tk/api/message/update");
+            await Bot.SetWebhookAsync("https://pyzhchordsbot.azurewebsites.net/api/message/update");
         }
     }
 }

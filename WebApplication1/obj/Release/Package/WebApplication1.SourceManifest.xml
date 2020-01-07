@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="E:\CSharpProjects\Бот аккорды\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\Package\PackageTmp" />
-  <setAcl path="E:\CSharpProjects\Бот аккорды\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="E:\CSharpProjects\Бот аккорды\new_bot_chords — копия\WebApplication1\WebApplication1\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="F:\ChordsBot\MyChordsBot\WebApplication1\obj\Release\Package\PackageTmp" />
+  <setAcl path="F:\ChordsBot\MyChordsBot\WebApplication1\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="F:\ChordsBot\MyChordsBot\WebApplication1\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>
